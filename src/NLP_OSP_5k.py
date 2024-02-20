@@ -282,6 +282,9 @@ for metric, (avg, std) in scores.items():
     print(f"{metric}: Average = {avg:.2f}, Standard Deviation = {std:.2f}")
 
 
+print "hello"
+
+
 
 
 
